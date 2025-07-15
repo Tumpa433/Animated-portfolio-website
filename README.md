@@ -3,5 +3,5 @@
 A responsive and animated personal portfolio website.
 
 # Features
-Smooth scroll animations
+Smooth scroll animations, 
 Responsive UI
